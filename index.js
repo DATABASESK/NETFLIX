@@ -1,5 +1,5 @@
 // Consts
-const apikey = "e950e51d5d49e85f7c2f17f01eb23ba3";
+const apikey = "8f757ea1c6e3dc2deef92fb4682d7e78";
 const apiEndpoint = "https://api.themoviedb.org/3"
 const imgPath = "https://image.tmdb.org/t/p/original";
 
